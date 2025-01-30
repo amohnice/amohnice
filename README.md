@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📈 GitHub Contributions
 
-![Amos' GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=amohnice&theme=tokyonight)
+![Amos' GitHub contributions](https://github-readme-activity-graph.cyclic.app/graph?username=amohnice&bg_color=ffffff&color=0088cc&line=0088cc&point=0088cc)
 
 ## 📂 Projects
 
