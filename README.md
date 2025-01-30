@@ -44,6 +44,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ![Amos' GitHub stats](https://github-readme-stats.vercel.app/api?username=amohnice&show_icons=true&theme=radical)
 
+## 📈 GitHub Contributions
+
+![Amos' GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=amohnice&theme=tokyonight)
+
 ## 📂 Projects
 
 Here are a few projects I've been working on:
