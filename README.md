@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📈 GitHub Contributions
 
-![Amos' GitHub contributions](https://ghchart.rshah.org/ff0000/amohnice)
+![Amos' GitHub contributions](https://ghchart.rshah.org/amohnice)
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=amohnice&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
