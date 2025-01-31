@@ -50,7 +50,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📈 GitHub Contributions
 
-![Amos' GitHub contributions](https://github-readme-activity-graph.cyclic.app/graph?username=amohnice&bg_color=ffffff&color=0088cc&line=0088cc&point=0088cc)
+![Amos' GitHub contributions](https://ghchart.rshah.org/409ba5/amohnice)
+
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=amohnice&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Activity Graph
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amohnice&theme=react-dark)
 
 ## 💻 Most Used Languages
 
@@ -58,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📌 Top Contributed Repository
 
-![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=amohnice&repo=my-awesome-repo&theme=radical)
+![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=amohnice&repo=Auto-Parts-shop&theme=radical)
 
 ## 📂 Projects
 
