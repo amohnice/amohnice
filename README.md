@@ -44,9 +44,21 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ![Amos' GitHub stats](https://github-readme-stats.vercel.app/api?username=amohnice&show_icons=true&theme=radical)
 
+## 🔥 GitHub Streak
+
+![Amos' GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=amohnice&theme=github_dark&border_radius=5&ring=ff6347)
+
 ## 📈 GitHub Contributions
 
 ![Amos' GitHub contributions](https://github-readme-activity-graph.cyclic.app/graph?username=amohnice&bg_color=ffffff&color=0088cc&line=0088cc&point=0088cc)
+
+## 💻 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amohnice&langs_count=6&layout=compact&theme=tokyonight)
+
+## 📌 Top Contributed Repository
+
+![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=amohnice&repo=my-awesome-repo&theme=radical)
 
 ## 📂 Projects
 
@@ -87,6 +99,14 @@ A web application built with Django for managing food orders. The system allows 
 ### [Personal Portfolio](https://github.com/amohnice/amohnice.github.io)
 A personal portfolio website to showcase my skills and projects. Built with HTML, CSS, and JavaScript.
 ## [Live demo](https://amohnice.github.io/)
+
+## 🛠️ Tech Stack
+
+- **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Backend**: ![Django](https://img.shields.io/badge/Django-092D40?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Database**: ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- **Deployment**: ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
 ## 📫 Contact Me
 
