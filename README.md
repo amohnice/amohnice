@@ -1,23 +1,4 @@
-<!---
-amohnice/amohnice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi there, I'm Amos Kimutai! 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Dedan+Okware;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
-
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here you'll find a collection of my projects, contributions, and a little bit about me.
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on [Auto Parts shop Project](https://github.com/amohnice/Auto-Parts-shop)
-- 🌱 I’m currently learning advanced CSS and Javascript frameworks
-- 👀 I’m interested in web development, front-end, back-end and full-stack development
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about Python, JavaScript, and web development
-- 📫 How to reach me: [amoskorir631@gmail.com](mailto:amoskorir631@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid hiker and love exploring new trails
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Amos+Kimutai👋;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
 
 ## 🛠️ Skills
 
@@ -41,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - Docker
 - Kubernetes
 - AWS
+- Stack overflow
 
 ## 📈 GitHub Stats
 
@@ -48,14 +30,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🔥 GitHub Streak
 
-![Amos' GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=amohnice&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-## 📈 GitHub Contributions
-
-![Amos' GitHub contributions](https://ghchart.rshah.org/amohnice?bg=181717)
-
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=amohnice&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Amos' GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=amohnice&theme=radical&hide_border=true)][(https://git.io/streak-stats)]
 
 ### 📈 GitHub Activity Graph:
 [![SoftCysec's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amohnice)](https://github.com/amohnice)
@@ -67,42 +42,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 📌 Top Contributed Repository
 
 ![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=amohnice&repo=Auto-Parts-shop&theme=radical)
-
-## 📂 Projects
-
-Here are a few projects I've been working on:
-
-### [Auto Parts shop Project](https://github.com/amohnice/Auto-Parts-shop)
-A web application built with Django for managing an auto parts shop. It allows shop owners and staff to manage inventory, process orders, track customer information, and handle appointments for part installations or services.
-
-## Features:
-- Inventory management for auto parts
-- Order processing and tracking
--Customer profile management
--Appointment scheduling for installations/services
-- Admin dashboard for efficient management
-- 
-## Technologies:
-- Django (Python)
-- SQLite (Database)
-- HTML, CSS, JavaScript (Frontend)
-- Bootstrap (UI)
-
-### [Food Ordering System](https://github.com/amohnice/Food_Ordering_System)
-A web application built with Django for managing food orders. The system allows customers to browse the menu, place orders, and make payments, while restaurant owners can manage the menu, process orders, and track customer information.
-
-## Features:
-- Menu management (add, update, remove items)
-- Customer order placement and tracking
-- Order status updates (e.g., preparing, delivered)
-- Customer profile management
-- Admin dashboard for order and inventory management
-
-## Technologies:
-- Django (Python)
-- SQLite (Database)
-- HTML, CSS, JavaScript (Frontend)
-- Bootstrap (UI)
 
 ### [Personal Portfolio](https://github.com/amohnice/amohnice.github.io)
 A personal portfolio website to showcase my skills and projects. Built with HTML, CSS, and JavaScript.
