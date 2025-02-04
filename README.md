@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Amos Kimutai! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Dedan+Okware;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here you'll find a collection of my projects, contributions, and a little bit about me.
 
 ## 🚀 About Me
@@ -46,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🔥 GitHub Streak
 
-![Amos' GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=amohnice&theme=github_dark&border_radius=5&ring=ff6347)
+![Amos' GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=amohnice&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 📈 GitHub Contributions
 
@@ -55,8 +57,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=amohnice&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 Activity Graph
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amohnice&theme=react-dark)
+### 📈 GitHub Activity Graph:
+[![SoftCysec's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amohnice)](https://github.com/amohnice)
 
 ## 💻 Most Used Languages
 
