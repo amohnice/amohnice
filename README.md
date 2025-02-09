@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Amos+Kimutai👋;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGelh2Gn4w/AzrU3iY0J1p7hh_yxyNtnQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+[A Man Of Success](https://www.canva.com/design/DAGelh2Gn4w/AzrU3iY0J1p7hh_yxyNtnQ/watch?embed)
 
 ## 🛠️ Skills
 
