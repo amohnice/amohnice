@@ -32,8 +32,7 @@
 
 ## 🔥 GitHub Streak
 
-![Amos' GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=amohnice&theme=radical&hide_border=true)][(https://git.io/streak-stats)]
-
+![Amos' GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=amohnice&theme=radical&hide_border=true)
 ### 📈 GitHub Activity Graph:
 [![SoftCysec's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amohnice)](https://github.com/amohnice)
 
