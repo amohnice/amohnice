@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Amos+Kimutai👋;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Amos+Kimutai+Korir👋;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+<h1 align="center">Amos Korir</h1>
+<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amohnice&label=Profile%20views&color=0e75b6&style=flat" alt="amohnice" /> </p>
+
+<p align="left"> <a href="https://twitter.com/amoh_nice" target="blank"><img src="https://img.shields.io/twitter/follow/amoh_nice?logo=twitter&style=for-the-badge" alt="amoh_nice" /></a> </p>
 
 # 💫 About Me:
 - 🔭 I’m currently working on: MERN stack projects & tech community initiatives  
