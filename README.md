@@ -1,18 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Amos+Kimutai+Korir👋;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+
 <h1 align="center">Amos Korir</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate frontend & mobile developer from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amohnice&label=Profile%20views&color=0e75b6&style=flat" alt="amohnice" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amohnice&label=Profile%20views&color=0e75b6&style=flat" alt="amohnice" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/amoh_nice" target="blank"><img src="https://img.shields.io/twitter/follow/amoh_nice?logo=twitter&style=for-the-badge" alt="amoh_nice" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/amoh_nice" target="blank">
+    <img src="https://img.shields.io/twitter/follow/amoh_nice?logo=twitter&style=for-the-badge" alt="amoh_nice" />
+  </a>
+</p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on: MERN stack projects & tech community initiatives  
-- 👯 I’m looking to collaborate on: Open-source, startups, and community-driven platforms  
-- 🤝 I’m looking for help with: Backend architecture and advanced deployment strategies  
-- 🌱 I’m currently learning: TypeScript, GraphQL, DevOps tools  
-- 💬 Ask me about: MERN stack, APIs, deployment, and side hustles  
-- ⚡ Fun fact: I can debug better with lo-fi music in the background  
+- 🔭 I’m currently working on: MERN & Flutter projects + community tech events  
+- 👯 I’m looking to collaborate on: Open-source, startups, and dev communities  
+- 🤝 I’m looking for help with: Backend architecture and advanced DevOps  
+- 🌱 I’m currently learning: TypeScript, GraphQL, Flutter animations  
+- 💬 Ask me about: React, Node.js, Flutter, APIs, and side hustles  
+- ⚡ Fun fact: I debug better with lo-fi beats 🎧
 
 ---
 
@@ -25,7 +32,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🌐 Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -61,12 +69,13 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
 ## 🌐 Portfolio
-🌍 Check out my personal portfolio: [amoskorir.vercel.app](https://amoskorir.vercel.app)
+🌍 Check out my portfolio: [amoskorir.vercel.app](https://amoskorir.vercel.app)
 
 ---
 
