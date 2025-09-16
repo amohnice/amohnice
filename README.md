@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Amos+Kimutai+Korir👋;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Amos+Kimutai+Korir👋;I'm+a+passionate+Web+Developer;Interested+in+networking+and+learning+new+technologies+in+tech)](https://git.io/typing-svg)
 
 <h1 align="center">Amos Korir</h1>
-<h3 align="center">A passionate frontend & mobile developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amohnice&label=Profile%20views&color=0e75b6&style=flat" alt="amohnice" />
@@ -75,7 +75,7 @@
 ---
 
 ## 🌐 Portfolio
-🌍 Check out my portfolio: [amoskorir.vercel.app](https://amoskorir.vercel.app)
+🌍 Check out my portfolio: [amoskorir](https://amoskorir.vercel.app)
 
 ---
 
@@ -92,7 +92,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100085710435849) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amoh.nice) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amohnice) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amos-korir) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/amoh_nice) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@amoh.nice) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amoh_nice) 
