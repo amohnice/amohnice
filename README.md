@@ -13,14 +13,6 @@
   </a>
 </p>
 
-# 💫 About Me:
-- 🔭 I’m currently working on: MERN & Flutter projects + community tech events  
-- 👯 I’m looking to collaborate on: Open-source, startups, and dev communities  
-- 🤝 I’m looking for help with: Backend architecture and advanced DevOps  
-- 🌱 I’m currently learning: TypeScript, GraphQL, Flutter animations  
-- 💬 Ask me about: React, Node.js, Flutter, APIs, and side hustles  
-- ⚡ Fun fact: I debug better with lo-fi beats 🎧
-
 ---
 
 ## 💻 Tech Stack:
@@ -76,16 +68,6 @@
 
 ## 🌐 Portfolio
 🌍 Check out my portfolio: [amoskorir](https://amoskorir.vercel.app)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amohnice&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amohnice&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amohnice&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amohnice&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
